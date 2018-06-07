@@ -1,0 +1,4 @@
+.container {
+  transition: background-image 0.2s ease-in-out;
+  -webkit-transition: background-image 0.2s ease-in-out;
+}
